@@ -44,7 +44,7 @@
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sazzad1779&show_icons=true&locale=en&rank_icon=github" alt="sazzad1779" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sazzad1779&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5" alt="sazzad1779" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sazzad1779&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5" alt="sazzad1779" /></p>
 
 
 
