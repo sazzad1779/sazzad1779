@@ -55,6 +55,9 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓 young 
 
 <br/>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sazzad1779&show_icons=true&theme=radical)
+
 ## 🚀 Quick Stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sazzad1779&show_icons=true&line_height=21&count_private=true&theme=dracula" alt="Sazzad's Github Stats" />
