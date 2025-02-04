@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sazzad1779.github.io/](https://sazzad1779.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@sazzad1779/all-about-llm-inference-for-production-grade-applications-part-1-d420c89c6ba8](https://medium.com/@sazzad1779/all-about-llm-inference-for-production-grade-applications-part-1-d420c89c6ba8)
+- 📝 I regularly write articles on [Large Language Models](https://medium.com/@sazzad1779)
 
 - 💬 Ask me about **llm**
 
@@ -25,6 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://medium.com/@sazzad1779/all-about-llm-inference-for-production-grade-applications-part-1-d420c89c6ba8
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -46,6 +47,8 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sazzad1779&show_icons=true&locale=en&rank_icon=github" alt="sazzad1779" /></p>
+
+
 <p align="left"> 
 <h4 align="left">Badges</h4>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazzad1779" alt="sazzad1779" /></a> </p>
