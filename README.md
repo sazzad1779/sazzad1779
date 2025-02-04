@@ -19,13 +19,13 @@
 
 - 📫 How to reach me **sazzad1779@gmail.com**
 
-- 📄 Know about my experiences [https://sazzad1779.github.io/files/Sazzad's%20Resume.pdf](https://sazzad1779.github.io/files/Sazzad's%20Resume.pdf)
+- 📄 Know about my experiences [Resume](https://sazzad1779.github.io/files/Sazzad's%20Resume.pdf)
 
 - ⚡ Fun fact **I think I am responsible with funny.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://medium.com/@sazzad1779/all-about-llm-inference-for-production-grade-applications-part-1-d420c89c6ba8
+[all-about-llm-inference-for-production-grade-applications-part-1](https://medium.com/@sazzad1779/all-about-llm-inference-for-production-grade-applications-part-1-d420c89c6ba8)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -50,5 +50,5 @@ https://medium.com/@sazzad1779/all-about-llm-inference-for-production-grade-appl
 
 
 <p align="left"> 
-<h4 align="left">Badges</h4>
+
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazzad1779" alt="sazzad1779" /></a> </p>
