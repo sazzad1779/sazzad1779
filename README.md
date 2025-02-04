@@ -1,72 +1,51 @@
 <h1> Hi there!, I am <a href="https://github.com/sazzad1779">Md. Sazzad Hossain</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> </h1>
 
-<img src="https://komarev.com/ghpvc/?username=sazzad1779&&style=flat-square" align="left" />
+<h6 align="center">I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓 young Machine Learning Practitioner, passionate about developing cutting-edge AI technologies 💫 to solve real world problems.</h3>
 
-<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzad1779&label=Profile%20views&color=0e75b6&style=flat" alt="sazzad1779" /> </p>
 
-#### 📬 Find me at 
-[![Github Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=twitter&logoColor=white&link=https://github.com/sazzad1779)](https://github.com/sazzad1779) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sazzad1779/)](https://www.linkedin.com/in/sazzad1779/) [![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle&link=https://whttps://www.kaggle.com/mdsazzad1779/)](https://www.kaggle.com/mdsazzad1779) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sazzad1779@gmail.com)](mailto:sazzad1779@gmail.com)
 
-## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+- 🔭 I’m currently working on [Fattah_SLM](https://github.com/sazzad1779/Fattah_SLM)
 
-I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓 young Machine Learning Practitioner, passionate about developing cutting-edge AI technologies 💫 to solve real world problems.  <br/>
+- 🌱 I’m currently learning **Ray and vllm**
 
-<br/>
+- 👯 I’m looking to collaborate on **LLM Inference**
 
-## 👨‍💻 I can code in...
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">  
-    <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" style="vertical-align:top; margin:4px"/>
+- 👨‍💻 All of my projects are available at [https://sazzad1779.github.io/](https://sazzad1779.github.io/)
+
+- 📝 I regularly write articles on [https://medium.com/@sazzad1779/all-about-llm-inference-for-production-grade-applications-part-1-d420c89c6ba8](https://medium.com/@sazzad1779/all-about-llm-inference-for-production-grade-applications-part-1-d420c89c6ba8)
+
+- 💬 Ask me about **llm**
+
+- 📫 How to reach me **sazzad1779@gmail.com**
+
+- 📄 Know about my experiences [https://sazzad1779.github.io/files/Sazzad's%20Resume.pdf](https://sazzad1779.github.io/files/Sazzad's%20Resume.pdf)
+
+- ⚡ Fun fact **I think I am responsible with funny.**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sazzad1779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sazzad1779" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17475579/sazzad1779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17475579/sazzad1779" height="30" width="40" /></a>
+<a href="https://fb.com/sazzad1779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sazzad1779" height="30" width="40" /></a>
+<a href="https://medium.com/@sazzad1779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sazzad1779" height="30" width="40" /></a>
+<a href="https://dev.to/sazzad1779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sazzad1779" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sazzad1779&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5" alt="sazzad1779" /></p>
 
 
-##  🤹 Skill Zone
-<p align="center">
-<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-black?&style=for-the-badge&logo=pytorch&logoColor=red"/> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013220?&style=for-the-badge&logo=numpy"/> <img src="https://img.shields.io/badge/Pandas-130654?&style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/Scikit--Learn-grey?&style=for-the-badge&logo=scikit-learn"/> 
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-lightblue?&style=for-the-badge&logo=fastapi"/> <img src="https://img.shields.io/badge/Flask-grey?&style=for-the-badge&logo=flask"/><img src="https://img.shields.io/badge/Django-blue?style=for-the-badge&logo=Django"/>
-  
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-black?&style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
-
-
-<br/>
-
-<details>
-  <summary><b>Click to know more about me! 😄 <b></summary>
-
-## ⚡️ A Few Quick Facts
-
-- 🔭 I’m currently working on something special!
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 🔤 Natural Language Processing
-  - 🖼 Computer Vision
-  - Deploying ML Models and scaling them
-  - ♾️ Literally any tech
-- ⚽ Cricket fan
-
-<br/>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sazzad1779&show_icons=true&theme=radical)
-
-## 🚀 Quick Stats
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sazzad1779&show_icons=true&line_height=21&count_private=true&theme=dracula" alt="Sazzad's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazzad1779&langs_count=6&hide=matlab&count_private=true&theme=nightowl" />
-</p>
-
-## 🤗 Notable Contributions
-<p align="center">
-  
-  <!-- [![StreamLit](https://github-readme-stats.vercel.app/api/pin/?username=streamlit&repo=streamlit&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/streamlit/streamlit) -->
-  [![Fast-API](https://github-readme-stats.vercel.app/api/pin/?username=sazzad1779&repo=FastAPI_Course&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/sazzad1779/FastAPI_Course.git)
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sazzad1779&show_icons=true&locale=en&rank_icon=github" alt="sazzad1779" /></p>
+<p align="left"> 
+<h4 align="left">Badges</h4>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazzad1779" alt="sazzad1779" /></a> </p>
