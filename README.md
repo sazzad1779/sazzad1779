@@ -1,4 +1,5 @@
 <h1> Hi there!, I am <a href="https://github.com/sazzad1779">Md. Sazzad Hossain</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=C3CF62&center=true&width=1000&height=61&lines=Machine+Learning+Developer;Python+Developer;LLM+Practitioner;Generative+AI+Enthusiast;RAG+and+AI+Agent+Developer)]()
 
 <h6 align="center">I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓 young Machine Learning Practitioner, passionate about developing cutting-edge AI technologies 💫 to solve real world problems.</h3>
 
