@@ -1,10 +1,10 @@
-<h1> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">!, I am <a href="https://github.com/sazzad1779">Md. Sazzad Hossain</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> </h1>
+<h1> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">, I am <a href="https://github.com/sazzad1779">Md. Sazzad Hossain</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> </h1>
 <span>
 <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="left" >
 <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="right" >
 </span>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=0D46AD&center=true&width=1000&height=61&lines=Computer+Science+and+Engineering+Student;Competitive+Programmer;UI%2FUX+Developer;Machine+Learning+Developer;MERN+Stack+Developer;Mobile+Application+Developer;Software+Engineer;Python+Developer)](https://osa-portfolio.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=C3CF62&center=true&width=1000&height=61&lines=Machine+Learning+Developer;Python+Developer;LLM+Practitioner;Generative+AI+Enthusiast;RAG+and+AI+Agent+Developer)]()
 
 
 <h6 align="center">I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓 young Machine Learning Practitioner, passionate about developing cutting-edge AI technologies 💫 to solve real world problems.</h3>
