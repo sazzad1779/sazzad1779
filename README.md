@@ -71,11 +71,7 @@
             src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="70"
             height="70" /> </a>
 </p>
-
 <br>
-<h3 align="left">Github Stats:</h3>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sazzad1779&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5" alt="sazzad1779 Top Languages" height=80% /> <img src="https://github-readme-stats.vercel.app/api?username=sazzad1779&show_icons=true&locale=en&rank_icon=github" alt="sazzad1779 GitHub Stats" height=100% /> <br> 
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/sazzad1779" target="blank"><img align="center"
@@ -94,8 +90,12 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
             alt="sazzad1779" height="40" width="50" /></a>
 </p>
+<br>
+<h3 align="left">Github Stats:</h3>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sazzad1779&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5" alt="sazzad1779 Top Languages" height=80% /> <img src="https://github-readme-stats.vercel.app/api?username=sazzad1779&show_icons=true&locale=en&rank_icon=github" alt="sazzad1779 GitHub Stats" height=100% /> <br> 
+
 
 <br>
-
 <p align="left"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazzad1779" alt="sazzad1779" /></a> </p>
