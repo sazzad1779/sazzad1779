@@ -11,24 +11,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzad1779&label=Profile%20views&color=0e75b6&style=flat" alt="sazzad1779" /> </p>
 
-
-- 🔭 I’m currently working on [Fattah_SLM](https://github.com/sazzad1779/Fattah_SLM)
-
-- 🌱 I’m currently learning **Ray and vllm**
-
-- 👯 I’m looking to collaborate on **Optimized LLM Inference**
-
-- 👨‍💻 All of my projects are available at [https://sazzad1779.github.io/](https://sazzad1779.github.io/)
-
-- 📝 I regularly write articles on [Large Language Models](https://medium.com/@sazzad1779)
-
-- 💬 Ask me about **Gen AI**
-
-- 📫 How to reach me **sazzad1779@gmail.com or +8801971-512153**
-
-- 📄 Know about my experiences [Resume](https://sazzad1779.github.io/files/Sazzad's%20Resume.pdf)
-
-- ⚡ Fun fact **I think I am responsible with funny.**
+🔭 I’m currently working on Fattah_SLM – an exciting project in the AI space.
+🌱 Currently exploring Ray and vLLM for optimized model inference.
+👯 Looking to collaborate on Efficient LLM Inference & AI Optimization.
+👨‍💻 Check out all my projects at My Portfolio.
+📝 I regularly share insights on Large Language Models on Medium.
+💬 Ask me anything about Generative AI, LLMs, and AI Agents!
+📫 Reach me at sazzad1779@gmail.com or via WhatsApp +8801971-512153.
+📄 Learn more about my experiences in my Resume.
+⚡ Fun fact: I balance responsibility with a good sense of humor! 😄
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
