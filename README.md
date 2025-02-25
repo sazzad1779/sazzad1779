@@ -10,7 +10,7 @@
 <h6 align="center">Passionate AI & ML Engineer specializing in Machine Learning, Python Development, LLMs, and Generative AI. I explore RAG systems, AI Agents, and cutting-edge AI solutions to build real-world applications that push the boundaries of innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzad1779&label=Profile%20views&color=0e75b6&style=flat" alt="sazzad1779" /> </p>
-
+```
 > ### 🔥 About Me  
 > - 🔭 I’m currently working on **[Fattah_SLM](https://github.com/sazzad1779/Fattah_SLM)** – an exciting project in the AI space.  
 > - 🌱 Currently exploring **Ray** and **vLLM** for optimized model inference.  
@@ -21,7 +21,7 @@
 > - 📫 Reach me at **sazzad1779@gmail.com** or via WhatsApp **+8801971-512153**.  
 > - 📄 Learn more about my experiences in my **[Resume](https://sazzad1779.github.io/files/Sazzad's%20Resume.pdf)**.  
 > - ⚡ Fun fact: **I balance responsibility with a good sense of humor!** 😄  
-
+```
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
