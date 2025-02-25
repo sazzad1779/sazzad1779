@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=C3CF62&center=true&width=1000&height=61&lines=Machine+Learning+Developer;Python+Developer;LLM+Practitioner;Generative+AI+Enthusiast;RAG+and+AI+Agent+Developer)]()
 
 
-<h6 align="center">I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓 young Machine Learning Practitioner, passionate about developing cutting-edge AI technologies 💫 to solve real world problems.</h3>
+<h6 align="center">Passionate AI & ML Engineer specializing in Machine Learning, Python Development, LLMs, and Generative AI. I explore RAG systems, AI Agents, and cutting-edge AI solutions to build real-world applications that push the boundaries of innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzad1779&label=Profile%20views&color=0e75b6&style=flat" alt="sazzad1779" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Ray and vllm**
 
-- 👯 I’m looking to collaborate on **LLM Inference**
+- 👯 I’m looking to collaborate on **Optimized LLM Inference**
 
 - 👨‍💻 All of my projects are available at [https://sazzad1779.github.io/](https://sazzad1779.github.io/)
 
@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **Gen AI**
 
-- 📫 How to reach me **sazzad1779@gmail.com** or **+8801971-512153**
+- 📫 How to reach me **sazzad1779@gmail.com or +8801971-512153**
 
 - 📄 Know about my experiences [Resume](https://sazzad1779.github.io/files/Sazzad's%20Resume.pdf)
 
