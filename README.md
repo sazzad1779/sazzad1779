@@ -38,7 +38,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="50" height="50" /> </a><a href="https://www.cprogramming.com/" target="_blank"
         rel="noreferrer">
-        
     </a>
     <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50"
@@ -48,8 +47,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="50" height="50" />
     </a>
-
-
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50" />
     </a>
@@ -57,8 +54,6 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50"
             height="50" />
     </a>
-
-
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
             width="50" height="50" />
@@ -77,8 +72,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="50"
             height="50" />
     </a>
-
-
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />
     </a>
@@ -94,7 +87,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="50" height="50" />
     </a>
-    
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="50" height="50" />
