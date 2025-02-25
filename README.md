@@ -93,6 +93,8 @@
 <br>
 <h3 align="left">Github Stats:</h3>
 <br>
+<p align="left"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sazzad1779&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5" alt="sazzad1779 Top Languages" /> <img src="https://github-readme-stats.vercel.app/api?username=sazzad1779&show_icons=true&locale=en&rank_icon=github" alt="sazzad1779 GitHub Stats"  /> <br> 
+</p>
 <p align="left"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazzad1779" alt="sazzad1779" /></a> </p>
