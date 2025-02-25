@@ -10,7 +10,8 @@
 <h6 align="center">Passionate AI & ML Engineer specializing in Machine Learning, Python Development, LLMs, and Generative AI. I explore RAG systems, AI Agents, and cutting-edge AI solutions to build real-world applications that push the boundaries of innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzad1779&label=Profile%20views&color=0e75b6&style=flat" alt="sazzad1779" /> </p>
-```
+
+
 > ### 🔥 About Me  
 > - 🔭 I’m currently working on **[Fattah_SLM](https://github.com/sazzad1779/Fattah_SLM)** – an exciting project in the AI space.  
 > - 🌱 Currently exploring **Ray** and **vLLM** for optimized model inference.  
@@ -21,7 +22,7 @@
 > - 📫 Reach me at **sazzad1779@gmail.com** or via WhatsApp **+8801971-512153**.  
 > - 📄 Learn more about my experiences in my **[Resume](https://sazzad1779.github.io/files/Sazzad's%20Resume.pdf)**.  
 > - ⚡ Fun fact: **I balance responsibility with a good sense of humor!** 😄  
-```
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -71,13 +72,9 @@
             height="70" /> </a>
 </p>
 
-</br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sazzad1779&show_icons=true&locale=en&rank_icon=github" alt="sazzad1779" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sazzad1779&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5" alt="sazzad1779" /></p>
 
-<div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; background-color: #f8f9fa;">
-
-<h3 align="left">Connect with me:</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sazzad1779&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5" alt="sazzad1779 Top Languages" height=80% width=50%/> <img src="https://github-readme-stats.vercel.app/api?username=sazzad1779&show_icons=true&locale=en&rank_icon=github" alt="sazzad1779 GitHub Stats" height=100% width=60%/> <br> 
+<h3 align="left">📬 Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/sazzad1779" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -95,7 +92,8 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
             alt="sazzad1779" height="40" width="50" /></a>
 </p>
-</div>
+
+
 
 <p align="left"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazzad1779" alt="sazzad1779" /></a> </p>
