@@ -22,9 +22,9 @@
 
 - 📝 I regularly write articles on [Large Language Models](https://medium.com/@sazzad1779)
 
-- 💬 Ask me about **llm**
+- 💬 Ask me about **Gen AI**
 
-- 📫 How to reach me **sazzad1779@gmail.com**
+- 📫 How to reach me **sazzad1779@gmail.com** or **+8801971-512153**
 
 - 📄 Know about my experiences [Resume](https://sazzad1779.github.io/files/Sazzad's%20Resume.pdf)
 
