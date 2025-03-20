@@ -16,7 +16,7 @@
 > - 🔭 I’m currently working on **[Fattah_SLM](https://github.com/sazzad1779/Fattah_SLM)** – an exciting project in the AI space.  
 > - 🌱 Currently exploring **Ray** and **vLLM** for optimized model inference.  
 > - 👯 Looking to collaborate on **Efficient LLM Inference & AI Optimization**.  
-> - 👨‍💻 Check out all my projects at **[My Portfolio](https://sazzad1779.github.io/)**.  
+> - 👨‍💻 Check out all my projects at **[My Portfolio](https://sazzad1779.vercel.app/)**.  
 > - 📝 I regularly share insights on **Large Language Models** on **[Medium](https://medium.com/@sazzad1779)**.  
 > - 💬 Ask me anything about **Generative AI, LLMs, and AI Agents**!  
 > - 📫 Reach me at **sazzad1779@gmail.com** or via WhatsApp **+8801971-512153**.  
