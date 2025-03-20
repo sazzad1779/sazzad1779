@@ -20,7 +20,7 @@
 > - 📝 I regularly share insights on **Large Language Models** on **[Medium](https://medium.com/@sazzad1779)**.  
 > - 💬 Ask me anything about **Generative AI, LLMs, and AI Agents**!  
 > - 📫 Reach me at **sazzad1779@gmail.com** or via WhatsApp **+8801971-512153**.  
-> - 📄 Learn more about my experiences in my **[Resume](https://sazzad1779.github.io/files/Sazzad's%20Resume.pdf)**.  
+> - 📄 Learn more about my experiences in my **[Resume](https://github.com/sazzad1779/Portfoliov2/blob/main/public/files/sazzad's%20resume.pdf)**.  
 > - ⚡ Fun fact: **I balance responsibility with a good sense of humor!** 😄  
 
 
