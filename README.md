@@ -17,7 +17,7 @@
 > - 🌱 Currently exploring **Ray** and **vLLM** for optimized model inference.  
 > - 👯 Looking to collaborate on **Efficient LLM Inference & AI Optimization**.  
 > - 👨‍💻 Check out all my projects at **[My Portfolio](https://sazzad1779.vercel.app/)**.  
-> - 📝 I regularly share insights on **Large Language Models** on **[Medium](https://medium.com/@sazzad1779)**.  
+> - 📝 I regularly share insights on **Machine Learning**, and **Large Language Models** on **[Medium](https://medium.com/@sazzad1779)**.  
 > - 💬 Ask me anything about **Generative AI, LLMs, and AI Agents**!  
 > - 📫 Reach me at **sazzad1779@gmail.com** or via WhatsApp **+8801971-512153**.  
 > - 📄 Learn more about my experiences in my **[Resume](https://github.com/sazzad1779/Portfoliov2/blob/main/public/files/sazzad's%20resume.pdf)**.  
