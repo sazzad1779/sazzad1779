@@ -27,11 +27,14 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 > - [All-about-llm-inference-for-production-grade-applications-part:1](https://medium.com/@sazzad1779/all-about-llm-inference-for-production-grade-applications-part-1-d420c89c6ba8)
+
 > - [Reducing Latency in LLM-Based Applications with Caching: A Guide for Production-Level Deployment](https://medium.com/@sazzad1779/reducing-latency-in-llm-based-applications-with-caching-a-guide-for-production-level-deployment-97fdb41765c1)
 
 ##### Machine Learning Blogs
 > - [Deep Dive into Data Preprocessing in Machine Learning](https://medium.com/@sazzad1779/deep-dive-into-data-preprocessing-in-machine-learning-30706d682a8a)
+
 > - [Boosting Techniques: Working Principles and Algorithms](https://medium.com/@sazzad1779/boosting-techniques-working-principles-and-algorithms-8a8ddf7c9d7a)
+
 > - [In-Depth Guide to Evaluation Metrics in Machine Learning.](https://medium.com/@sazzad1779/in-depth-guide-to-evaluation-metrics-in-machine-learning-2a66892d717a)
 
 <!-- BLOG-POST-LIST:END -->
